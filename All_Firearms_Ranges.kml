@@ -38,71 +38,19 @@
 <open>1</open>
 
 <Placemark>
-  <name>Clybel Range</name>
+  <name>Beaverdam Range</name>
   <description>
   		<![CDATA[
         <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd & 50 yd ranges</td></tr>
-        <tr><td>Hours:</td><td>Tues-Sat: 10am-6pm<br />Sun-Mon: Closed</td></tr>
-        <tr><td>Directions:</td><td>From Mansfield: Take GA Hwy 11 South for 2.5 miles.  Turn left onto Marben Farms Road, travel 1.5 miles. Turn left at range sign.</td></tr>
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
+        <tr><td>Directions:</td><td>From Dublin, take US 441 north 4.5 miles.  Turn right on Old Toomsboro Road.  Go 7.5 miles to WMA sign.  Turn right on Oconee Church Road. Turn at WMA sign and go approximately 1 mile past check station to reach the range.</td></tr>
         <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
-        ]]>
-  </description>
-  <LookAt>
-    <longitude>-83.72761946491417</longitude>
-    <latitude>33.4685223709423</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-83.72761946491417,33.4685223709423,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Chestnut Mountain Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>May 1-Aug 31: 9am-8pm<br />Sep 1-Apr 30: 9am-5pm<br />Sunday: Closed</td></tr>
-        <tr><td>Directions:</td><td>I-75, take exit 320 (Lafayette-Reseca exit).  Turn left on Hwy 136 and go approximately 5 miles, turn right where the 136 connector runs into Hwy 136.  Go approximately 0.25 miles and range is on the right.</td></tr>
-        <tr><td>Info/Fees:</td><td>$5 Parking Fee</td></tr>
-        ]]>  
-  </description>
-  <LookAt>
-    <longitude>-85.04808934128575</longitude>
-    <latitude>34.61091114103613</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-85.04808934128575,34.61091114103613,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Sumac Shooting Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>Sunrise to sunset; Range closed Tuesdays until 12 noon for area clean-up.</td></tr>
-        <tr><td>Directions:</td><td>Hwy 411 North out of Eton.  Turn right on Hwy 2.  Go to end of the pavement and pass the Cohutta WMA entrance sign on right. Continue onto the top of the hill and the range road will be on the right.</td></tr>
-        <tr><td>Info/Fees:</td><td>$5 Parking Fee</td></tr>
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.69507882490554</longitude>
-    <latitude>34.94216915337024</latitude>
+    <longitude>-82.9830334178809</longitude>
+    <latitude>32.7035075510907</latitude>
     <altitude>0</altitude>
     <heading>0</heading>
     <tilt>0</tilt>
@@ -111,24 +59,24 @@
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
   <Point>
-    <coordinates>-84.69507882490554,34.94216915337024,0</coordinates>
+    <coordinates>-82.9830334178809,32.7035075510907,0</coordinates>
   </Point>
 </Placemark>
 
 <Placemark>
-  <name>Wilson Shoals</name>
+  <name>Big Hammock Range</name>
   <description>
   		<![CDATA[
         <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">75 yd range</td></tr>
-        <tr><td>Hours:</td><td>Mon-Sat: 9am-7pm or sunset (whichever is earliest)<br />Tuesday: 12pm-7pm or sunset (whichever is earliest)<br />Sunday: 12pm-5pm</td></tr>
-        <tr><td>Directions:</td><td>From Gainesville:  Take Hwy 365 North, 11 miles from exit 24. Turn  right on Mud Creek Road, go 1 mile and turn left on Old Cornelia Hwy.  Go 0.1 mile and turn right on Yonah Road. Go 2.1 miles and turn left on Grant Mill Road. The range will be 1 mile on the right.</td></tr>
-        <tr><td>Info/Fees:</td><td>GORP or Qualifying License<br />Shooters must provide their own paper targets, target stand, eye and ear protection.</td></tr>
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
+        <tr><td>Directions:</td><td>From Glennville, take Hwy 144 south 12 miles to Altamaha River. Enter area toward check station on east side of the Hwy just prior to the Altamaha River Bridge. Bear left at check station for 75 yards to reach shooting range.</td></tr>
+        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
         ]]>   
   </description>
   <LookAt>
-    <longitude>-83.592599571129</longitude>
-    <latitude>34.40356537884481</latitude>
+    <longitude>-82.08670754520537</longitude>
+    <latitude>31.86523596563602</latitude>
     <altitude>0</altitude>
     <heading>0</heading>
     <tilt>0</tilt>
@@ -137,59 +85,7 @@
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
   <Point>
-    <coordinates>-83.592599571129,34.40356537884481,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Yuchi Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>Tues-Sun: 10am-2pm<br />Mondays: Closed</td></tr>
-        <tr><td>Directions:</td><td>From Waynesboro:  Take Hwy 80 East, 8 miles to Shell Bluff Community.  Turn right on Hwy 23and travel 7 miles south. Turn left on Ebenezer Church Road, go 1 mile and range is across from the check station.</td></tr>
-        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
-        ]]>    
-  </description>
-  <LookAt>
-    <longitude>-81.78427140781409</longitude>
-    <latitude>33.08400854161755</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-81.78427140781409,33.08400854161755,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>West Point Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>Mon-Sat: 9am to sunset<br />Sunday: 12pm to sunset</td></tr>
-        <tr><td>Directions:</td><td>From Lagrange, take GA Hwy 219 North.  1 mile north of the Chattahoochee River Bridge, turn right at range sign.</td></tr>
-        <tr><td>Info/Fees:</td><td>N/A</td></tr>
-        ]]>      
-  </description>
-  <LookAt>
-    <longitude>-85.09321388888888</longitude>
-    <latitude>33.15045833333333</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-85.09321388888888,33.15045833333333,0</coordinates>
+    <coordinates>-82.08670754520537,31.86523596563602,0</coordinates>
   </Point>
 </Placemark>
 
@@ -220,19 +116,19 @@
 </Placemark>
 
 <Placemark>
-  <name>Ocmulgee Range</name>
+  <name>Bullard Creek Range</name>
   <description>
   		<![CDATA[
         <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd & 50 yd ranges</td></tr>
-        <tr><td>Hours:</td><td>Tues-Sat: 10am-6pm<br />Sun: 1pm-6pm<br />Mon: Closed</td></tr>
-        <tr><td>Directions:</td><td>From Hawkinsville take US Hwy 341 south to GA Hwy 26.  Turn left and travel 0.3 miles to Upper River Road.  Turn left and travel approximately 4.5 miles to range sign.  Turn left on WMA dirt road and travel 2.0 miles to range.</td></tr>
+        <tr><td width="100">Facilities:</td><td width="400">100 & 25 yd ranges</td></tr>
+        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
+        <tr><td>Directions:</td><td>From Hazlehurst take US 221 north 6.5 miles. Turn right on County Road 185.  Go to Philadelphia Church, turn left onto dirt road, go about 1.5 miles to shooting range on left.</td></tr>
         <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
         ]]>   
   </description>
   <LookAt>
-    <longitude>-83.48382222222223</longitude>
-    <latitude>32.33768888888889</latitude>
+    <longitude>-82.49384410789104</longitude>
+    <latitude>31.94074019545446</latitude>
     <altitude>0</altitude>
     <heading>0</heading>
     <tilt>0</tilt>
@@ -241,7 +137,7 @@
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
   <Point>
-    <coordinates>-83.48382222222223,32.33768888888889,0</coordinates>
+    <coordinates>-82.49384410789104,31.94074019545446,0</coordinates>
   </Point>
 </Placemark>
 
@@ -268,6 +164,84 @@
   <styleUrl>#m_ylw-pushpin</styleUrl>
   <Point>
     <coordinates>-83.51317764224079,33.20549120749264,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Chestnut Mountain Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>May 1-Aug 31: 9am-8pm<br />Sep 1-Apr 30: 9am-5pm<br />Sunday: Closed</td></tr>
+        <tr><td>Directions:</td><td>I-75, take exit 320 (Lafayette-Reseca exit).  Turn left on Hwy 136 and go approximately 5 miles, turn right where the 136 connector runs into Hwy 136.  Go approximately 0.25 miles and range is on the right.</td></tr>
+        <tr><td>Info/Fees:</td><td>$5 Parking Fee</td></tr>
+        ]]>  
+  </description>
+  <LookAt>
+    <longitude>-85.04808934128575</longitude>
+    <latitude>34.61091114103613</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-85.04808934128575,34.61091114103613,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Clybel Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 yd & 50 yd ranges</td></tr>
+        <tr><td>Hours:</td><td>Tues-Sat: 10am-6pm<br />Sun-Mon: Closed</td></tr>
+        <tr><td>Directions:</td><td>From Mansfield: Take GA Hwy 11 South for 2.5 miles.  Turn left onto Marben Farms Road, travel 1.5 miles. Turn left at range sign.</td></tr>
+        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
+        ]]>
+  </description>
+  <LookAt>
+    <longitude>-83.72761946491417</longitude>
+    <latitude>33.4685223709423</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-83.72761946491417,33.4685223709423,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Dixon Memorial Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 & 25 yd ranges</td></tr>
+        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
+        <tr><td>Directions:</td><td>From Waycross, take US 1 south 6 miles to GA Hwy 177 (Swamp Park Road).  Turn right and travel approximately 0.75 miles. Turn left under powerline onto Crews Blvd.  Follow signs- approximately 3.5 miles to shooting range.</td></tr>
+        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
+        ]]>   
+  </description>
+  <LookAt>
+    <longitude>-82.22951419867533</longitude>
+    <latitude>31.09461705198362</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-82.22951419867533,31.09461705198362,0</coordinates>
   </Point>
 </Placemark>
 
@@ -350,19 +324,19 @@
 </Placemark>
 
 <Placemark>
-  <name>Beaverdam Range</name>
+  <name>Ocmulgee Range</name>
   <description>
   		<![CDATA[
         <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
-        <tr><td>Directions:</td><td>From Dublin, take US 441 north 4.5 miles.  Turn right on Old Toomsboro Road.  Go 7.5 miles to WMA sign.  Turn right on Oconee Church Road. Turn at WMA sign and go approximately 1 mile past check station to reach the range.</td></tr>
+        <tr><td width="100">Facilities:</td><td width="400">100 yd & 50 yd ranges</td></tr>
+        <tr><td>Hours:</td><td>Tues-Sat: 10am-6pm<br />Sun: 1pm-6pm<br />Mon: Closed</td></tr>
+        <tr><td>Directions:</td><td>From Hawkinsville take US Hwy 341 south to GA Hwy 26.  Turn left and travel 0.3 miles to Upper River Road.  Turn left and travel approximately 4.5 miles to range sign.  Turn left on WMA dirt road and travel 2.0 miles to range.</td></tr>
         <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
         ]]>   
   </description>
   <LookAt>
-    <longitude>-82.9830334178809</longitude>
-    <latitude>32.7035075510907</latitude>
+    <longitude>-83.48382222222223</longitude>
+    <latitude>32.33768888888889</latitude>
     <altitude>0</altitude>
     <heading>0</heading>
     <tilt>0</tilt>
@@ -371,85 +345,7 @@
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
   <Point>
-    <coordinates>-82.9830334178809,32.7035075510907,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Big Hammock Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
-        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
-        <tr><td>Directions:</td><td>From Glennville, take Hwy 144 south 12 miles to Altamaha River. Enter area toward check station on east side of the Hwy just prior to the Altamaha River Bridge. Bear left at check station for 75 yards to reach shooting range.</td></tr>
-        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
-        ]]>   
-  </description>
-  <LookAt>
-    <longitude>-82.08670754520537</longitude>
-    <latitude>31.86523596563602</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-82.08670754520537,31.86523596563602,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Bullard Creek Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 & 25 yd ranges</td></tr>
-        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
-        <tr><td>Directions:</td><td>From Hazlehurst take US 221 north 6.5 miles. Turn right on County Road 185.  Go to Philadelphia Church, turn left onto dirt road, go about 1.5 miles to shooting range on left.</td></tr>
-        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
-        ]]>   
-  </description>
-  <LookAt>
-    <longitude>-82.49384410789104</longitude>
-    <latitude>31.94074019545446</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-82.49384410789104,31.94074019545446,0</coordinates>
-  </Point>
-</Placemark>
-
-<Placemark>
-  <name>Dixon Memorial Range</name>
-  <description>
-  		<![CDATA[
-        <table border="1">
-        <tr><td width="100">Facilities:</td><td width="400">100 & 25 yd ranges</td></tr>
-        <tr><td>Hours:</td><td>Daily: sunrise to sunset</td></tr>
-        <tr><td>Directions:</td><td>From Waycross, take US 1 south 6 miles to GA Hwy 177 (Swamp Park Road).  Turn right and travel approximately 0.75 miles. Turn left under powerline onto Crews Blvd.  Follow signs- approximately 3.5 miles to shooting range.</td></tr>
-        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
-        ]]>   
-  </description>
-  <LookAt>
-    <longitude>-82.22951419867533</longitude>
-    <latitude>31.09461705198362</latitude>
-    <altitude>0</altitude>
-    <heading>0</heading>
-    <tilt>0</tilt>
-    <range>5000</range>
-    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-  </LookAt>
-  <styleUrl>#m_ylw-pushpin</styleUrl>
-  <Point>
-    <coordinates>-82.22951419867533,31.09461705198362,0</coordinates>
+    <coordinates>-83.48382222222223,32.33768888888889,0</coordinates>
   </Point>
 </Placemark>
 
@@ -479,15 +375,115 @@
   </Point>
 </Placemark>
 
+<Placemark>
+  <name>Sumac Shooting Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>Sunrise to sunset; Range closed Tuesdays until 12 noon for area clean-up.</td></tr>
+        <tr><td>Directions:</td><td>Hwy 411 North out of Eton.  Turn right on Hwy 2.  Go to end of the pavement and pass the Cohutta WMA entrance sign on right. Continue onto the top of the hill and the range road will be on the right.</td></tr>
+        <tr><td>Info/Fees:</td><td>$5 Parking Fee</td></tr>
+        ]]>   
+  </description>
+  <LookAt>
+    <longitude>-84.69507882490554</longitude>
+    <latitude>34.94216915337024</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-84.69507882490554,34.94216915337024,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>West Point Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>Mon-Sat: 9am to sunset<br />Sunday: 12pm to sunset</td></tr>
+        <tr><td>Directions:</td><td>From Lagrange, take GA Hwy 219 North.  1 mile north of the Chattahoochee River Bridge, turn right at range sign.</td></tr>
+        <tr><td>Info/Fees:</td><td>N/A</td></tr>
+        ]]>      
+  </description>
+  <LookAt>
+    <longitude>-85.09321388888888</longitude>
+    <latitude>33.15045833333333</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-85.09321388888888,33.15045833333333,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Wilson Shoals</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">75 yd range</td></tr>
+        <tr><td>Hours:</td><td>Mon-Sat: 9am-7pm or sunset (whichever is earliest)<br />Tuesday: 12pm-7pm or sunset (whichever is earliest)<br />Sunday: 12pm-5pm</td></tr>
+        <tr><td>Directions:</td><td>From Gainesville:  Take Hwy 365 North, 11 miles from exit 24. Turn  right on Mud Creek Road, go 1 mile and turn left on Old Cornelia Hwy.  Go 0.1 mile and turn right on Yonah Road. Go 2.1 miles and turn left on Grant Mill Road. The range will be 1 mile on the right.</td></tr>
+        <tr><td>Info/Fees:</td><td>GORP or Qualifying License<br />Shooters must provide their own paper targets, target stand, eye and ear protection.</td></tr>
+        ]]>   
+  </description>
+  <LookAt>
+    <longitude>-83.592599571129</longitude>
+    <latitude>34.40356537884481</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-83.592599571129,34.40356537884481,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <name>Yuchi Range</name>
+  <description>
+  		<![CDATA[
+        <table border="1">
+        <tr><td width="100">Facilities:</td><td width="400">100 yd range</td></tr>
+        <tr><td>Hours:</td><td>Tues-Sun: 10am-2pm<br />Mondays: Closed</td></tr>
+        <tr><td>Directions:</td><td>From Waynesboro:  Take Hwy 80 East, 8 miles to Shell Bluff Community.  Turn right on Hwy 23and travel 7 miles south. Turn left on Ebenezer Church Road, go 1 mile and range is across from the check station.</td></tr>
+        <tr><td>Info/Fees:</td><td>GORP or Qualifying License</td></tr>
+        ]]>    
+  </description>
+  <LookAt>
+    <longitude>-81.78427140781409</longitude>
+    <latitude>33.08400854161755</latitude>
+    <altitude>0</altitude>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
+    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+  </LookAt>
+  <styleUrl>#m_ylw-pushpin</styleUrl>
+  <Point>
+    <coordinates>-81.78427140781409,33.08400854161755,0</coordinates>
+  </Point>
+</Placemark>
+
 </Folder>
 
 <Folder>
   <name>Private Outdoor Ranges</name>
   <open>1</open>
-
-<Placemark>
-  <name>River Bend Gun Club</name>
-</Placemark>
 
 <Placemark>
   <name>Creekside Firing Range</name>
@@ -504,6 +500,57 @@
 		<Point>
 			<coordinates>-84.98246067618646,34.10409391390183,0</coordinates>
 		</Point>
+</Placemark>
+
+<Placemark>
+  <name>River Bend Gun Club</name>
+  <LookAt>
+    <longitude>-84.24258197188318</longitude>
+		<latitude>34.34184782267779</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>5000</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<styleUrl>#m_ylw-pushpin</styleUrl>
+	<Point>
+		<coordinates>-84.24258197188318,34.34184782267779,0</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>South River Gun Club</name>
+	<LookAt>
+		<longitude>-83.9874367409092</longitude>
+		<latitude>33.50244081301029</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>5000</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<styleUrl>#m_ylw-pushpin</styleUrl>
+	<Point>
+		<coordinates>-83.9874367409092,33.50244081301029,0</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>Tom Lowe Shooting Grounds</name>
+	<LookAt>
+		<longitude>-84.56449566786465</longitude>
+		<latitude>33.67005868096376</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>5000</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<styleUrl>#m_ylw-pushpin</styleUrl>
+	<Point>
+		<coordinates>-84.56449566786465,33.67005868096376,0</coordinates>
+	</Point>
 </Placemark>
 
 </Folder>
