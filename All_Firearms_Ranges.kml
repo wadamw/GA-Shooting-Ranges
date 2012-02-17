@@ -49,12 +49,12 @@
         ]]>
   </description>
   <LookAt>
-    <longitude>-83.7270595797059</longitude>
-    <latitude>33.47013281221283</latitude>
+    <longitude>-83.72761946491417</longitude>
+    <latitude>33.4685223709423</latitude>
     <altitude>0</altitude>
-    <heading>0.02855132836597577</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>1216.368025979891</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -75,12 +75,12 @@
         ]]>  
   </description>
   <LookAt>
-    <longitude>-85.04808934128576</longitude>
+    <longitude>-85.04808934128575</longitude>
     <latitude>34.61091114103613</latitude>
     <altitude>0</altitude>
-    <heading>-0.709893058753921</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>489.2167613631761</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -101,12 +101,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.69538095241188</longitude>
-    <latitude>34.94277889335163</latitude>
+    <longitude>-84.69507882490554</longitude>
+    <latitude>34.94216915337024</latitude>
     <altitude>0</altitude>
-    <heading>-0.5260376564996631</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>299.051335186632</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -127,12 +127,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-83.59346558638846</longitude>
-    <latitude>34.40333145354362</latitude>
+    <longitude>-83.592599571129</longitude>
+    <latitude>34.40356537884481</latitude>
     <altitude>0</altitude>
-    <heading>0.3943281645561962</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>721.1140995005501</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -153,12 +153,12 @@
         ]]>    
   </description>
   <LookAt>
-    <longitude>-81.78463926925781</longitude>
-    <latitude>33.08355933603836</latitude>
+    <longitude>-81.78427140781409</longitude>
+    <latitude>33.08400854161755</latitude>
     <altitude>0</altitude>
-    <heading>0.9550035312215696</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>432.5429464469639</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -179,12 +179,12 @@
         ]]>      
   </description>
   <LookAt>
-    <longitude>-85.09321327487966</longitude>
-    <latitude>33.15045860719189</latitude>
+    <longitude>-85.09321388888888</longitude>
+    <latitude>33.15045833333333</latitude>
     <altitude>0</altitude>
-    <heading>-1.119287419413911</heading>
-    <tilt>1.248269757614009</tilt>
-    <range>170.4865630619202</range>
+    <heading>0</heading>
+    <tilt>0</tilt>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -205,12 +205,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.42792483513472</longitude>
-    <latitude>32.78611702781145</latitude>
+    <longitude>-84.42633432760842</longitude>
+    <latitude>32.78559405339572</latitude>
     <altitude>0</altitude>
-    <heading>-0.4406957337350202</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>1137.194436141987</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -231,12 +231,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-83.48440705596207</longitude>
-    <latitude>32.33763022022058</latitude>
+    <longitude>-83.48382222222223</longitude>
+    <latitude>32.33768888888889</latitude>
     <altitude>0</altitude>
-    <heading>0.1263747638257323</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>302.1698697034186</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -257,12 +257,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-83.5134472553288</longitude>
-    <latitude>33.20577405889248</latitude>
+    <longitude>-83.51317764224079</longitude>
+    <latitude>33.20549120749264</latitude>
     <altitude>0</altitude>
-    <heading>0.4818431390881313</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>247.2519960844865</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -283,12 +283,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.74252516744735</longitude>
-    <latitude>32.11083153665876</latitude>
+    <longitude>-84.74204919250852</longitude>
+    <latitude>32.11088817813894</latitude>
     <altitude>0</altitude>
-    <heading>-0.1884629118766024</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>464.885479093085</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -309,12 +309,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.7643593758383</longitude>
-    <latitude>31.16634696842698</latitude>
+    <longitude>-84.76408034763395</longitude>
+    <latitude>31.16606374153669</latitude>
     <altitude>0</altitude>
-    <heading>-0.2278638082628221</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>492.813031718348</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -335,12 +335,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-84.41466813862265</longitude>
-    <latitude>31.49935723730416</latitude>
+    <longitude>-84.41441623870871</longitude>
+    <latitude>31.49924268660495</latitude>
     <altitude>0</altitude>
-    <heading>-0.05870595914884727</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>427.2677002820832</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -361,12 +361,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-82.98534811359345</longitude>
-    <latitude>32.70467702231334</latitude>
+    <longitude>-82.9830334178809</longitude>
+    <latitude>32.7035075510907</latitude>
     <altitude>0</altitude>
-    <heading>0.6771264813205731</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>764.0581589426764</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -387,12 +387,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-82.08730739293958</longitude>
-    <latitude>31.86583548760504</latitude>
+    <longitude>-82.08670754520537</longitude>
+    <latitude>31.86523596563602</latitude>
     <altitude>0</altitude>
-    <heading>1.32045878981042</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>477.6485468018305</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -413,12 +413,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-82.4940603621376</longitude>
-    <latitude>31.94107222263108</latitude>
+    <longitude>-82.49384410789104</longitude>
+    <latitude>31.94074019545446</latitude>
     <altitude>0</altitude>
-    <heading>1.109530360919891</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>287.2678727779531</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -439,12 +439,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-82.22952345835103</longitude>
-    <latitude>31.09444823189025</latitude>
+    <longitude>-82.22951419867533</longitude>
+    <latitude>31.09461705198362</latitude>
     <altitude>0</altitude>
-    <heading>1.256950313747603</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>283.3010114595916</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -465,12 +465,12 @@
         ]]>   
   </description>
   <LookAt>
-    <longitude>-81.23264814148523</longitude>
-    <latitude>31.80685549187395</latitude>
+    <longitude>-81.23182984310013</longitude>
+    <latitude>31.80682492863847</latitude>
     <altitude>0</altitude>
-    <heading>1.21802671098118</heading>
+    <heading>0</heading>
     <tilt>0</tilt>
-    <range>396.4041705277153</range>
+    <range>5000</range>
     <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
   </LookAt>
   <styleUrl>#m_ylw-pushpin</styleUrl>
@@ -486,11 +486,24 @@
   <open>1</open>
 
 <Placemark>
-  <name>River Bend Gun Club</Name>
+  <name>River Bend Gun Club</name>
 </Placemark>
 
 <Placemark>
   <name>Creekside Firing Range</name>
+  <LookAt>
+			<longitude>-84.98246067618646</longitude>
+			<latitude>34.10409391390183</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>5000</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<coordinates>-84.98246067618646,34.10409391390183,0</coordinates>
+		</Point>
 </Placemark>
 
 </Folder>
