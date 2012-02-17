@@ -481,5 +481,19 @@
 
 </Folder>
 
+<Folder>
+  <name>Private Outdoor Ranges</name>
+  <open>1</open>
+
+<Placemark>
+  <name>River Bend Gun Club</Name>
+</Placemark>
+
+<Placemark>
+  <name>Creekside Firing Range</name>
+</Placemark>
+
+</Folder>
+
 </Document>
 </kml>
